@@ -1,4 +1,6 @@
-package main.java.creationalPattern.factory;
+package main.java.creationalPattern.factory.repository.implement;
+
+import main.java.creationalPattern.factory.repository.AbstractRepository;
 
 public class SendYahooMail implements AbstractRepository {
 

@@ -4,6 +4,11 @@ import java.io.FileInputStream;
 import java.io.InputStream;
 import java.util.Properties;
 
+import main.java.creationalPattern.factory.repository.AbstractRepository;
+import main.java.creationalPattern.factory.repository.implement.SendGmail;
+import main.java.creationalPattern.factory.repository.implement.SendHotMail;
+import main.java.creationalPattern.factory.repository.implement.SendYahooMail;
+
 public class AbstractFactory {
 	
 	public static AbstractRepository getRepository() {

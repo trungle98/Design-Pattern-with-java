@@ -1,4 +1,4 @@
-package main.java.creationalPattern.factory;
+package main.java.creationalPattern.factory.repository;
 
 public interface AbstractRepository {
 	void sendAll();

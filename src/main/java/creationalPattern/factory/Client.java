@@ -1,5 +1,7 @@
 package main.java.creationalPattern.factory;
 
+import main.java.creationalPattern.factory.repository.AbstractRepository;
+
 public class Client {
 	AbstractRepository abstractRepository;
 	public Client() {
