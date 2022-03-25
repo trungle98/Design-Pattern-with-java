@@ -1,4 +1,4 @@
-package FactoryPattern;
+package main.java.creationalPattern.factory;
 
 public class SendGmail implements AbstractRepository{
 

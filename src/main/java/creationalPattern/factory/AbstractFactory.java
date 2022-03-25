@@ -1,4 +1,4 @@
-package FactoryPattern;
+package main.java.creationalPattern.factory;
 
 import java.io.FileInputStream;
 import java.io.InputStream;
